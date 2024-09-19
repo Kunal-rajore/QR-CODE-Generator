@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "popins","sans-serief";
+    /* text-align: center; */
+}
+h2{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.container{
+    /* height: 25vh; */
+    width: 25vw;
+    position: absolute;
+    top: 30%;
+    left: 38%;
+    background-color: #00c9a7;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+.btn{
+    background-color: #4b4453;
+    color: white;
+}
+.container input{
+    border: none;
+    outline: none;
+    border: 1.5px solid #4b4453;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+
+#imgbox{
+    padding: 10px 0px 10px;
+}
